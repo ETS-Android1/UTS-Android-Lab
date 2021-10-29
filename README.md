@@ -1,2 +1,2 @@
 # UTS-Android-Lab
-UTS Android Lab: membuat SFX Library dan Previewer.
+UTS Android Lab: SFX Library dan Previewer.
