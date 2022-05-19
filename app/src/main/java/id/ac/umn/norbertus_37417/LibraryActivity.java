@@ -90,6 +90,7 @@ public class LibraryActivity extends AppCompatActivity {
                 bind.rvListLibrary.smoothScrollToPosition(position+1);
             }
         };
+
     }
 
     void storeData(){
