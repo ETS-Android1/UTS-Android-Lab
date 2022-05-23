@@ -1,4 +1,4 @@
-# SFX Library daandn Previewer
+# SFX Library and Previewer
 
 
 This is an Android Application as a fulfillment of Android Development courses.
