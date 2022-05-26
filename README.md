@@ -2,7 +2,7 @@
 
 This is an Android Application as a fulfillment of Android Development courses.
 
-This application can play a media player in the form of music, display a music list, delete music from the list and display a profile page. The stored data is still dummy and will return to its original state when entering the reopen application again.
+This application can play a media player in the form of music, display a music list, delete music from the list and display a profile page. The stored data is still dummy and will return to its original state when entering or reopen application again.
 
 # Dependency
 - <a href='https://github.com/hdodenhof/CircleImageView'>Circle Image</a>
